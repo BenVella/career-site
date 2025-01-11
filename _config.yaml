@@ -1,5 +1,5 @@
 # site information here7
-
+theme: jekyll-theme-minimal
 nav:
   - home: /
   - work: /work
