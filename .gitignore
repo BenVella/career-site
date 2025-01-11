@@ -1,0 +1,19 @@
+# Jekyll generated files #
+_site/
+.sass-cache/
+.jekyll-metadata
+.jekyll-cache
+
+# Gemfile and Bundler related files #
+Gemfile.lock
+.bundle/
+
+# Logs and databases #
+*.log
+*.sqlite3
+*.db
+
+# Temporary files #
+.ruby-version
+.ruby-gemset
+tmp/
